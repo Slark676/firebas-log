@@ -1,0 +1,41 @@
+//Instalacion del proyecto EXPO
+https://docs.expo.dev
+comand:npx create-expo-app@latest
+
+//Instalacíon de TailWind
+https://www.nativewind.dev/quick-starts/expo
+ *npm install nativewind
+ *npm install --save-dev tailwindcss@3.3.2
+ *npx tailwindcss init
+
+- emulator -avd Pixel_8_API_35
+
+// github
+   1 git init
+   2 git status
+   4 git add .
+   5 git commit -m " "
+   6 git push origin main
+
+// biblioteca de Responsive
+https://www.npmjs.com/package/react-native-responsive-screen
+
+> npm i react-native-responsive-screen
+
+// biblioteca de Iconos
+https://www.npmjs.com/package/@expo/vector-icons
+
+> npm i @expo/vector-icons
+
+// biblioteca de animaciones
+https://www.npmjs.com/package/lottie-react-native
+> npm i lottie-react-native
+
+
+// firebase - Base de datos no sql
+https://console.firebase.google.com/u/0/project/app-carrete-cervecero/overview?hl=es-419
+> npm install firebase
+
+// biblioteca async storage -- sirve para almacenamiento local en aplicaciones React Native
+
+> npm i @react-native-async-storage/async-storage
